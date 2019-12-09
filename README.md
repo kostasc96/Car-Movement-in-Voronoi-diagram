@@ -1,4 +1,4 @@
 # Car-Movement-in-Voronoi-diagram
-CGAL library used
+Printing cells of the Voronoi diagram that the car has visited 
 
-Task: Print cells of the Voronoi diagram that the car has visited 
+CGAL library used
